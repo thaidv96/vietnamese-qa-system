@@ -1,0 +1,6 @@
+                         0
+top_1_accuracy    0.704977
+top_5_accuracy    0.904977
+top_10_accuracy   0.951584
+top_20_accuracy   0.972851
+top_100_accuracy  0.994570

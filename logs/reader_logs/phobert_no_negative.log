@@ -1,0 +1,32 @@
+Training on 18579 samples
+Epoch 1
+Evaluate on 2285 samples
+- Average F1-score: 0.7624109084705799
+- Average F1-score POSITIVE: 0.7624109084705799
+- Average Exact match: 0.5956236323851204
+- Average Exact match POSITIVE: 0.5956236323851204
+Epoch 2
+Evaluate on 2285 samples
+- Average F1-score: 0.7957553164768564
+- Average F1-score POSITIVE: 0.7957553164768564
+- Average Exact match: 0.6354485776805252
+- Average Exact match POSITIVE: 0.6354485776805252
+Epoch 3
+Evaluate on 2285 samples
+- Average F1-score: 0.8092062767609575
+- Average F1-score POSITIVE: 0.8092062767609575
+- Average Exact match: 0.6525164113785558
+- Average Exact match POSITIVE: 0.6525164113785558
+Epoch 4
+Evaluate on 2285 samples
+- Average F1-score: 0.8125463025186171
+- Average F1-score POSITIVE: 0.8125463025186171
+- Average Exact match: 0.6577680525164114
+- Average Exact match POSITIVE: 0.6577680525164114
+Epoch 5
+Evaluate on 2285 samples
+- Average F1-score: 0.8109208713820804
+- Average F1-score POSITIVE: 0.8109208713820804
+- Average Exact match: 0.6542669584245077
+- Average Exact match POSITIVE: 0.6542669584245077
+Training done
