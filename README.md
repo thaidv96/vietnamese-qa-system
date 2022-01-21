@@ -82,6 +82,6 @@ from predictor import ReaderPredictor, QASystem, BM25Retriever, SemanticsRetriev
 retriever = HybridRetriever()
 reader = ReaderPredictor()
 system = QASystem(retriever=retriever, reader=reader)
-question = "Nước Đức hiện nay sự hợp thành của hai nước nào trong thời kỳ Đồng minh chiếm đóng Đức?"
+question = "Nước Đức hiện nay là sự hợp thành của hai nước nào trong thời kỳ Đồng minh chiếm đóng Đức?"
 answer = system.predict(question)
 ```
